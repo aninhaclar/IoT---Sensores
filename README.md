@@ -65,8 +65,8 @@ Este projeto monitora a **umidade do solo** para plantas.
 
 ## Autores
 
-- Ana Clara  
-- Luiz dos Santos
+Projeto desenvolvido por [**Ana Clara**](https://www.linkedin.com/in/ana-clara-rimualdo-pires-621a2731b)  
+Projeto desenvolvido por [**Luiz dos Santos**](www.linkedin.com/in/luiz-santos-788507327)  
 
 ---
 
